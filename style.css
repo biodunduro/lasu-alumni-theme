@@ -219,3 +219,12 @@ a:hover {
     margin-top: 1rem;
   }
 }
+
+.bg-light {
+  background: var(--light-gray);
+}
+
+.section .cards .card small {
+  color: #666;
+  font-size: 0.85rem;
+}
